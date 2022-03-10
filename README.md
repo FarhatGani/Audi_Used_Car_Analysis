@@ -2,8 +2,8 @@
 
 #Exploring the data using different data visualization plots:
 
-##● Pie chart
-##● Barplot
+● Pie chart
+● Barplot
 ● Scatterplot
 ● Trendline or Regression plot
 ● Pair plot
