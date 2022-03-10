@@ -2,7 +2,7 @@
 
 #Exploring the data using different data visualization plots:
 
-pie chart
+◈ pie chart
 Barplot
 Scatterplot
 Trendline or Regression plot
